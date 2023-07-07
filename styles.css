@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    color: #020202;
+    margin: 0px;
+    display: block;
+    overflow: hidden;
+}
+
+.main {
+    text-align: left;
+    background-image: url(img/faded-office.png);
+    background-size: 690px;
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 350px;
+    border: 2px solid #020202;
+    padding: 10px 40px;    
+}
+
+#title {
+    font-weight: bold;
+    font-size: 37px;
+    margin-bottom: 10px;
+    width: 250px;
+}
+
+#underline {
+    border-bottom: 5px solid #0ea5e9;
+}
+
+#main-body {
+    width: 250px;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+#chat {
+    width: 110px;
+    padding: 10px;
+    background-color: #0ea5e9;
+    border: none;
+    color: white;
+}
